@@ -5,7 +5,7 @@
  */
 body {
   font-family: 'Lora';
-  background:linear-gradient(rgba(75, 56, 50, 0.65),rgba(71, 52, 45, 0.65)),url(/img/tileable_wood_texture_@2X.png);
+  background:linear-gradient(rgba(75, 56, 50, 0.65),rgba(71, 52, 45, 0.65)),url(../img/tileable_wood_texture_@2X.png);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
