@@ -252,3 +252,9 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+.card{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-color: black;
+  
+}
