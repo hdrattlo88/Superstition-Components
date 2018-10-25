@@ -144,7 +144,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(44, 92, 124, 0.9);
+  background-color: #e6a756;
 }
 
 .cta .cta-inner {
@@ -251,4 +251,10 @@ p {
 
 .font-weight-light {
   font-weight: 100 !important;
+}
+.card{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-color: black;
+  
 }
