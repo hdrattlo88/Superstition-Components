@@ -144,7 +144,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(44, 92, 124, 0.9);
+  background-color: #e6a756;
 }
 
 .cta .cta-inner {
@@ -254,4 +254,9 @@ p {
 }
 .img-fluid{
   border-radius: 15px;
-}
+/* .card{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-color: black;
+  
+} */
